@@ -1,0 +1,76 @@
+{
+  "_version": "1.0.0",
+  "_review": "TODO-REVIEW: All definitions must be reviewed by a qualified Lagos property lawyer before publication.",
+  "terms": [
+    {
+      "term": "Certificate of Occupancy (C of O)",
+      "definition": "A statutory right of occupancy issued by the Governor of Lagos State (through the Land Bureau) under the Land Use Act 1978. It is the most comprehensive form of title to land in Lagos and is typically granted for a 99-year leasehold. Possession of a C of O does not on its own mean a parcel is free of all disputes.",
+      "note": "TODO-REVIEW: Confirm current C of O issuance procedures and validity conditions."
+    },
+    {
+      "term": "Deed of Assignment",
+      "definition": "A written instrument by which a holder of a right of occupancy transfers that right to another person. For a Deed of Assignment to be effective under the Land Use Act 1978, the Governor's Consent to the assignment must first be obtained and endorsed on the deed, and the deed must then be stamped and registered.",
+      "note": "TODO-REVIEW: Confirm current execution and registration requirements."
+    },
+    {
+      "term": "Governor's Consent",
+      "definition": "The approval of the Governor of Lagos State (exercised through the Land Bureau) that is required before any alienation (transfer, mortgage, or sublease) of a right of occupancy. Under section 22 of the Land Use Act 1978, an alienation without prior Governor's Consent is void.",
+      "note": "TODO-REVIEW: Confirm current consent application procedure, timelines, and fees with the Lagos State Land Bureau."
+    },
+    {
+      "term": "Survey Plan",
+      "definition": "A technical document prepared by a registered surveyor showing the precise boundaries, coordinates, dimensions, and area of a parcel of land. It must be prepared by a surveyor registered with the Surveyors Registration Council of Nigeria (SURCON) and filed at the Lagos State Survey Office.",
+      "note": "TODO-REVIEW: Confirm filing requirements with the Lagos State Survey Office."
+    },
+    {
+      "term": "Land Use Act 1978",
+      "definition": "The principal federal legislation governing land tenure in Nigeria. It vests all land in each state in the Governor, who holds it in trust for the people. All private land rights are therefore rights of occupancy (leasehold in nature) rather than freehold ownership in the traditional sense.",
+      "note": "TODO-REVIEW: Confirm that no amendments or judicial interpretations have materially changed the practical operation of the Act since this content was drafted."
+    },
+    {
+      "term": "Global Acquisition",
+      "definition": "A government acquisition of a large area of land (often by gazette) for public purposes such as housing schemes, infrastructure, or government reservations. Land within a globally acquired area cannot be privately owned; any title document purporting to cover such land is of no effect.",
+      "note": "TODO-REVIEW: Confirm current list of globally acquired areas with the Lagos State Land Bureau or a registered surveyor."
+    },
+    {
+      "term": "Excision",
+      "definition": "The formal release of a parcel of land from a government acquisition or committed scheme, restoring it to private ownership. An excised area is published in the Lagos State Gazette. Land described as 'excised' should be checked against the official gazette to confirm the excision is genuine.",
+      "note": "TODO-REVIEW: Confirm current excision gazette process and how to obtain gazette evidence."
+    },
+    {
+      "term": "Family Land",
+      "definition": "Land that is owned collectively by a family and not registered in any individual's name under the Land Use Act. Sales of family land require the consent of the head of family and principal members. Transactions by a single family member without proper family consent are frequently litigated.",
+      "note": "TODO-REVIEW: Family land rules are partly governed by customary law, which varies and evolves. Obtain specialist advice."
+    },
+    {
+      "term": "Stamp Duty",
+      "definition": "A tax levied on certain instruments, including Deeds of Assignment and conveyances. In Lagos, stamp duty on property transfers is administered jointly by the Federal Inland Revenue Service (FIRS) and the Lagos State Internal Revenue Service (LIRS). An unstamped deed has limited legal weight and cannot be admitted in evidence without first being stamped (and paying the associated penalty).",
+      "note": "TODO-REVIEW: Stamp duty rates, applicable thresholds, and the responsible collecting authority change. Confirm current rates with a tax or property lawyer."
+    },
+    {
+      "term": "Right of Occupancy",
+      "definition": "The form of land rights that exists in Nigeria under the Land Use Act 1978. All private interests in land are rights of occupancy granted by the Governor (statutory right of occupancy) or by a local government (customary right of occupancy). Despite popular usage, there is no absolute freehold ownership of land in Nigeria.",
+      "note": "TODO-REVIEW: Confirm that this characterisation reflects current judicial interpretation."
+    },
+    {
+      "term": "SURCON",
+      "definition": "Surveyors Registration Council of Nigeria. The statutory body that registers and regulates surveyors in Nigeria. Only SURCON-registered surveyors may lawfully prepare survey plans. You can request a surveyor's SURCON number and check it with the council.",
+      "note": "TODO-REVIEW: Confirm current SURCON registration check process."
+    },
+    {
+      "term": "Land Registry (Lagos)",
+      "definition": "The Lagos State Land Registry, located at Alausa, Ikeja. It maintains the register of all registered titles and instruments in Lagos State. An official search at the Land Registry is conducted through the Lagos State Land Bureau.",
+      "note": "TODO-REVIEW: Confirm current address, hours, and search procedures with the Land Bureau directly."
+    },
+    {
+      "term": "Registered Survey",
+      "definition": "A survey plan that has been approved and lodged with the Lagos State Survey Office, assigned a plan number, and is on file for reference. A registered survey is different from an unregistered plan drawn by a surveyor. Always ask whether the survey has been registered.",
+      "note": "TODO-REVIEW: Confirm current registration requirements and how to check plan registration."
+    },
+    {
+      "term": "Recertification",
+      "definition": "The process by which an existing C of O is updated to reflect a change of ownership or other material change. It is distinct from the original grant of a C of O and from Governor's Consent on a Deed of Assignment.",
+      "note": "TODO-REVIEW: Confirm whether recertification remains a standard Lagos Land Bureau process and its current requirements."
+    }
+  ]
+}

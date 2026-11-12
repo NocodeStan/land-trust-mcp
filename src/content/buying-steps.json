@@ -1,0 +1,107 @@
+{
+  "_version": "1.0.0",
+  "_review": "TODO-REVIEW: All steps must be reviewed by a qualified Lagos property lawyer before publication.",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Identify and Physically Inspect the Property",
+      "description": "Visit the land in person. Note the physical boundaries, neighbouring plots, access roads, and any structures. Confirm the site matches the location described in any documents the seller presents.",
+      "watch_out_for": [
+        "Sellers who refuse physical access before payment",
+        "Boundaries that do not match a survey plan",
+        "Multiple claimants farming or occupying parts of the land"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Engage a Qualified Lagos Property Lawyer",
+      "description": "Instruct a lawyer who is called to the Nigerian Bar and practises in Lagos State. They will conduct searches, review documents, and draft or review every agreement on your behalf. Do not rely on the seller's lawyer to protect your interests.",
+      "watch_out_for": [
+        "Using informal agents or middlemen as legal counsel",
+        "Signing any document without independent legal review"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Conduct a Search at the Lagos State Land Registry",
+      "description": "Your lawyer conducts an official land search at Alausa (the Lagos State Land Bureau) to check whether the property has a registered title, any encumbrances, court orders, or other interests registered against it. The search result is a critical document.",
+      "watch_out_for": [
+        "Sellers who discourage or delay a registry search",
+        "Properties with no registered title at all",
+        "Encumbrances such as mortgages or government acquisition orders"
+      ],
+      "note": "TODO-REVIEW: Search procedures and fees at the Land Registry change periodically. Confirm current process with the Lagos State Land Bureau."
+    },
+    {
+      "number": 4,
+      "title": "Obtain and Review the Title Documents",
+      "description": "The core title documents in Lagos are a Certificate of Occupancy (C of O), a Governor's Consent on a registered Deed of Assignment, or a registered Deed of Assignment in a chain traceable to a root title. Your lawyer will assess which documents exist and whether they are authentic.",
+      "watch_out_for": [
+        "Documents that cannot be authenticated at the Land Registry",
+        "Gaps or inconsistencies in the chain of ownership",
+        "Photocopies presented in place of originals"
+      ],
+      "note": "TODO-REVIEW: Document requirements and hierarchy must be reviewed against current Lagos State Land Administration policy."
+    },
+    {
+      "number": 5,
+      "title": "Commission an Independent Survey",
+      "description": "Engage a registered surveyor (registered with the Surveyors Registration Council of Nigeria, SURCON) to prepare or confirm a survey plan. The survey establishes the precise coordinates, area, and boundaries of the parcel and confirms it does not fall within a government acquisition area.",
+      "watch_out_for": [
+        "Survey plans not prepared by a SURCON-registered surveyor",
+        "Land that falls within a global acquisition or committed government scheme",
+        "Discrepancies between survey dimensions and what the seller claims"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Negotiate Terms and Agree a Purchase Price",
+      "description": "Agree the purchase price, payment schedule, and conditions (such as delivery of a valid C of O or Governor's Consent) in writing before any money changes hands. Your lawyer should be present or advising throughout.",
+      "watch_out_for": [
+        "Pressure to pay a deposit before documentation is reviewed",
+        "Verbal agreements without written record"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Execute a Contract of Sale (Agreement)",
+      "description": "Your lawyer drafts or reviews a formal contract of sale setting out the parties, the property description, purchase price, payment terms, conditions precedent, and what happens on default. Both parties sign before a witness. Keep the original.",
+      "watch_out_for": [
+        "Contracts that do not describe the land precisely (using survey plan coordinates)",
+        "Contracts that do not stipulate delivery of perfected title documents",
+        "Signing on behalf of a company without proper board authority"
+      ],
+      "note": "TODO-REVIEW: Contract clauses should be reviewed by a Lagos property lawyer to reflect current market practice and stamp duty requirements."
+    },
+    {
+      "number": 8,
+      "title": "Pay Stamp Duty and Register the Deed",
+      "description": "Once a Deed of Assignment is executed, it must be stamped at the Federal Inland Revenue Service (FIRS) or the Lagos State Internal Revenue Service (LIRS) and then presented to the Lagos Land Registry for registration. An unstamped, unregistered deed has limited legal effect.",
+      "watch_out_for": [
+        "Deeds that have been stamped but never registered",
+        "Sellers who retain the original stamped deed after handover"
+      ],
+      "note": "TODO-REVIEW: Stamp duty rates and the authority responsible for collection change. Confirm current applicable rates with a tax or property lawyer."
+    },
+    {
+      "number": 9,
+      "title": "Obtain Governor's Consent (where applicable)",
+      "description": "Under the Land Use Act 1978, any alienation (transfer) of a right of occupancy requires the prior consent of the Governor of Lagos State. Without consent, the transaction is void under the Act. Your lawyer will apply for Governor's Consent on your behalf through the Land Bureau.",
+      "watch_out_for": [
+        "Sellers who say Governor's Consent is unnecessary",
+        "Assuming consent is implied or automatic",
+        "Paying for consent but not following up to confirm it is granted and endorsed on the deed"
+      ],
+      "note": "TODO-REVIEW: The Governor's Consent process, timelines, and fees are subject to change. Confirm current requirements with the Lagos State Land Bureau or a property lawyer."
+    },
+    {
+      "number": 10,
+      "title": "Take Possession and Secure the Property",
+      "description": "Once all documentation is in order and payment is complete, take formal possession. Erect a fence or demarcate boundaries promptly. Retain all original documents in a safe place and keep certified copies separately.",
+      "watch_out_for": [
+        "Sellers who delay handover of possession after full payment",
+        "Storing all document originals in a single location that could be lost to fire or theft"
+      ]
+    }
+  ]
+}

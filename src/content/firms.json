@@ -1,0 +1,39 @@
+{
+  "_version": "1.0.0",
+  "_review": "TODO-REVIEW: This file intentionally contains NO firm listings. All firm data must be reviewed and approved before any real entries are added. See guidance below.",
+  "guidance": {
+    "summary": "Land Trust OS does not endorse, rank, or recommend specific firms or individuals. This tool returns only the guidance below on how to find a qualified professional.",
+    "how_to_find": [
+      {
+        "source": "Nigerian Bar Association (NBA) Lagos Branch",
+        "description": "The NBA Lagos Branch maintains a register of legal practitioners called to the bar. You may contact them directly to find a property lawyer in Lagos.",
+        "note": "TODO-REVIEW: Confirm current NBA Lagos contact details before publication."
+      },
+      {
+        "source": "Estate Surveyors and Valuers Registration Board of Nigeria (ESVARBON)",
+        "description": "ESVARBON registers estate surveyors and valuers. A registered estate surveyor can assist with valuation and market analysis. This is distinct from a SURCON-registered surveyor who prepares survey plans.",
+        "note": "TODO-REVIEW: Confirm current ESVARBON contact details."
+      },
+      {
+        "source": "Surveyors Registration Council of Nigeria (SURCON)",
+        "description": "SURCON registers surveyors who are authorised to prepare survey plans in Nigeria. You can contact SURCON to confirm whether a surveyor is registered.",
+        "note": "TODO-REVIEW: Confirm current SURCON contact details."
+      },
+      {
+        "source": "Personal referrals",
+        "description": "Ask people who have recently completed a Lagos land transaction for a referral. Ensure you independently confirm the professional's credentials regardless of the referral source."
+      },
+      {
+        "source": "Law firm directories",
+        "description": "Several Nigerian legal directories list property law firms. Ensure any firm you approach specialises in Lagos property law and has experience with the type of transaction you are conducting.",
+        "note": "TODO-REVIEW: If specific directories are to be listed here, their inclusion must be reviewed for accuracy and impartiality."
+      }
+    ],
+    "what_to_check": [
+      "Confirm the lawyer is on the roll of the Supreme Court of Nigeria (called to bar)",
+      "Ask specifically about their experience with Lagos land transactions and Governor's Consent applications",
+      "Obtain a written engagement letter or fee agreement before work commences",
+      "Avoid professionals who also represent the seller in the same transaction"
+    ]
+  }
+}

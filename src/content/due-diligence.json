@@ -1,0 +1,138 @@
+{
+  "_version": "1.0.0",
+  "_review": "TODO-REVIEW: All checklist items must be reviewed by a qualified Lagos property lawyer and registered surveyor before publication.",
+  "categories": [
+    {
+      "id": "title",
+      "title": "Title and Ownership Documents",
+      "note": "TODO-REVIEW: Document hierarchy and authenticity checks should be confirmed against current Lagos State Land Bureau practice.",
+      "items": [
+        {
+          "id": "title-1",
+          "task": "Obtain the original Certificate of Occupancy (C of O) or Deed of Assignment and inspect it in person.",
+          "why": "Photocopies can be forged. The original should bear the Land Registry seal and registration number."
+        },
+        {
+          "id": "title-2",
+          "task": "Confirm the title document is registered at the Lagos State Land Registry (Alausa).",
+          "why": "An unregistered deed provides weak legal protection."
+        },
+        {
+          "id": "title-3",
+          "task": "Trace the chain of title back to the root (ideally a C of O) and check for any gaps or unexplained changes in ownership.",
+          "why": "Gaps in the chain may indicate a fraudulent transfer at some point in the history."
+        },
+        {
+          "id": "title-4",
+          "task": "Check that Governor's Consent was obtained for every transfer in the chain of title.",
+          "why": "Under the Land Use Act 1978, an alienation without Governor's Consent is void."
+        },
+        {
+          "id": "title-5",
+          "task": "Confirm the seller's identity matches the name on the title document (ID check: BVN, NIN, international passport).",
+          "why": "Impersonation of a true owner is a common fraud vector."
+        },
+        {
+          "id": "title-6",
+          "task": "Where the seller is a company, obtain certified copies of its CAC registration, its board resolution authorising the sale, and confirm directors' identities.",
+          "why": "Unauthorised corporate sellers are a known risk in commercial land transactions."
+        }
+      ]
+    },
+    {
+      "id": "search",
+      "title": "Official Searches",
+      "note": "TODO-REVIEW: Search procedures and fees change periodically. Confirm current process.",
+      "items": [
+        {
+          "id": "search-1",
+          "task": "Conduct an official search at the Lagos State Land Bureau, Alausa, Ikeja.",
+          "why": "Reveals encumbrances, government schemes, court orders, or adverse interests registered on the title."
+        },
+        {
+          "id": "search-2",
+          "task": "Search the Corporate Affairs Commission (CAC) if the seller or any party in the chain is a company.",
+          "why": "Confirms company existence, directors, and that the company is not under receivership or winding-up."
+        },
+        {
+          "id": "search-3",
+          "task": "Check the Federal High Court and Lagos State High Court cause lists / judgment registers for any litigation concerning the property.",
+          "why": "Active or pending litigation can result in the land being frozen or ownership reversed."
+        },
+        {
+          "id": "search-4",
+          "task": "Obtain a search result from the Lagos State Ministry of Physical Planning and Urban Development to confirm the land is not earmarked for road alignment, public use, or infrastructure.",
+          "why": "Government infrastructure schemes can extinguish private rights without adequate compensation."
+        }
+      ]
+    },
+    {
+      "id": "survey",
+      "title": "Survey and Physical Inspection",
+      "items": [
+        {
+          "id": "survey-1",
+          "task": "Engage a SURCON-registered surveyor to prepare or authenticate the survey plan.",
+          "why": "Only registered surveyors may legally prepare survey plans in Nigeria."
+        },
+        {
+          "id": "survey-2",
+          "task": "Cross-check the survey plan coordinates against satellite imagery and physical beacons on site.",
+          "why": "Sellers sometimes present plans for a different parcel than the one being shown."
+        },
+        {
+          "id": "survey-3",
+          "task": "Confirm the land does not fall within a global acquisition area, committed government scheme, or buffer zone (e.g. pipeline, power line easement, waterway).",
+          "why": "Land within such zones cannot be privately owned or developed."
+        },
+        {
+          "id": "survey-4",
+          "task": "Visit the land at different times of day, including during rainfall, to assess flooding, drainage, and environmental conditions.",
+          "why": "Many Lagos parcels are prone to flooding. This is not disclosed in title documents."
+        }
+      ]
+    },
+    {
+      "id": "encumbrances",
+      "title": "Encumbrances and Third-Party Interests",
+      "items": [
+        {
+          "id": "enc-1",
+          "task": "Ask the seller to confirm in writing that the property is free of mortgages, liens, or charges.",
+          "why": "A mortgaged property may be repossessed by the lender regardless of your purchase."
+        },
+        {
+          "id": "enc-2",
+          "task": "Inspect the property for evidence of third-party occupation: tenants, family members, or community occupants.",
+          "why": "Occupants may have cognisable rights that survive a sale."
+        },
+        {
+          "id": "enc-3",
+          "task": "Where family land is involved, obtain evidence that all principal family members or the head of family has consented to the sale.",
+          "why": "Sales by one member of a family without family consent are frequently litigated and reversed."
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "title": "Payment and Financial Precautions",
+      "items": [
+        {
+          "id": "pay-1",
+          "task": "Make all payments by traceable bank transfer to the account of the documented owner (not an agent or third party).",
+          "why": "Cash payments are untraceably lost if the transaction is later challenged."
+        },
+        {
+          "id": "pay-2",
+          "task": "Do not release final payment until all original title documents are handed over and you have taken physical possession.",
+          "why": "Sellers who receive full payment have little incentive to complete post-completion obligations."
+        },
+        {
+          "id": "pay-3",
+          "task": "Budget for all government fees: stamp duty, Land Registry registration fees, Governor's Consent fees, and surveyor fees, in addition to the purchase price.",
+          "why": "These costs can add 10–20% to the headline price depending on the transaction value. TODO-REVIEW: Fee percentages change; confirm current rates."
+        }
+      ]
+    }
+  ]
+}

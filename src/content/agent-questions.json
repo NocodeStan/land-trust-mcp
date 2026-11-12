@@ -1,0 +1,110 @@
+{
+  "_version": "1.0.0",
+  "_review": "TODO-REVIEW: All questions must be reviewed by a Lagos property lawyer before publication.",
+  "intro": "These are suggested questions to ask your Lagos property lawyer or estate surveyor before proceeding. They are not exhaustive. A good professional will also raise matters you have not thought to ask.",
+  "sections": [
+    {
+      "id": "lawyer",
+      "heading": "Questions for Your Property Lawyer",
+      "questions": [
+        {
+          "q": "What is the nature of the title being offered — is it a Certificate of Occupancy, a registered Deed of Assignment, or something else?",
+          "why": "Different title types carry different levels of legal protection."
+        },
+        {
+          "q": "Have you conducted an official search at the Lagos State Land Bureau, and what did it reveal?",
+          "why": "The search result is the most authoritative check on encumbrances and adverse interests."
+        },
+        {
+          "q": "Is Governor's Consent in place for each transfer in the chain, including this one?",
+          "why": "Under the Land Use Act 1978, any alienation without Governor's Consent is void."
+        },
+        {
+          "q": "Who is the registered owner, and have you confirmed the seller's identity against that registration?",
+          "why": "Impersonation of a true owner is a common fraud type."
+        },
+        {
+          "q": "Are there any court orders, caveats, or injunctions affecting this property?",
+          "why": "Active litigation can freeze the property or reverse a completed purchase."
+        },
+        {
+          "q": "Does the land fall within any government acquisition scheme, road alignment, or public infrastructure corridor?",
+          "why": "Such land cannot be privately developed and the government may enter at any time."
+        },
+        {
+          "q": "What are my total costs beyond the purchase price, including stamp duty, registration, and your professional fees?",
+          "why": "Government fees and professional costs can add substantially to the headline price."
+        },
+        {
+          "q": "What conditions precedent must be satisfied before I release final payment?",
+          "why": "Releasing payment before conditions are met leaves you with limited recourse."
+        },
+        {
+          "q": "How long will it take to obtain Governor's Consent, and who is responsible for making the application?",
+          "why": "Governor's Consent can take months. Clarity on responsibility avoids delay or blame disputes."
+        },
+        {
+          "q": "What are my remedies if the seller fails to deliver a perfected title after I have paid?",
+          "why": "Understanding your remedies before signing is better than discovering them in a courtroom."
+        }
+      ]
+    },
+    {
+      "id": "surveyor",
+      "heading": "Questions for Your Surveyor",
+      "questions": [
+        {
+          "q": "Are you registered with the Surveyors Registration Council of Nigeria (SURCON)?",
+          "why": "Only SURCON-registered surveyors may lawfully prepare survey plans in Nigeria."
+        },
+        {
+          "q": "Does the survey plan on file at the Lagos State Survey Office match the parcel I am being shown?",
+          "why": "Sellers sometimes show one parcel and present documents for another."
+        },
+        {
+          "q": "Does the land fall within any global acquisition area, committed government scheme, or buffer zone?",
+          "why": "Land within such areas cannot be privately owned or developed."
+        },
+        {
+          "q": "What are the actual coordinates and dimensions of the parcel, and do they match what is stated in the title document?",
+          "why": "A discrepancy between the title and the survey may indicate a documentation error or fraud."
+        },
+        {
+          "q": "Are there any flood risk or drainage concerns on or immediately adjacent to this land?",
+          "why": "Many Lagos parcels are in flood-prone areas that are not disclosed in title documents."
+        },
+        {
+          "q": "Are the boundary beacons in place, undisturbed, and consistent with the survey plan?",
+          "why": "Missing or moved beacons may indicate a boundary dispute with a neighbouring occupant."
+        }
+      ]
+    },
+    {
+      "id": "seller",
+      "heading": "Questions for the Seller",
+      "note": "These questions should ideally be put in writing, with responses in writing, and reviewed by your lawyer before you rely on them.",
+      "questions": [
+        {
+          "q": "How did you acquire this property, and can you provide full documentary evidence of your acquisition?",
+          "why": "Gaps in the acquisition story are a warning sign."
+        },
+        {
+          "q": "Has the property ever been subject to litigation, a government acquisition notice, or a court order?",
+          "why": "Sellers are legally required to disclose known material defects. Asking in writing protects you."
+        },
+        {
+          "q": "Are there any tenants, occupants, or claimants in possession of or claiming rights over any part of the land?",
+          "why": "Undisclosed occupants can complicate possession after purchase."
+        },
+        {
+          "q": "Is the property encumbered by any mortgage, charge, or lien?",
+          "why": "A mortgagee can repossess regardless of your purchase."
+        },
+        {
+          "q": "Are you the sole owner, or are there co-owners, family members, or other parties whose consent is required?",
+          "why": "A partial owner selling the whole parcel without co-owners' consent is a frequent cause of dispute."
+        }
+      ]
+    }
+  ]
+}
